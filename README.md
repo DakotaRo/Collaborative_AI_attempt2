@@ -1,7 +1,9 @@
 # Collaborative_AI_pt2
  
 
-<!-- August 15:
+<!-- 
+
+August 15:
 Decided on making some sort of collaborative AI
 Decided to start with single agent genetic algorithm machine learning
 
@@ -34,4 +36,7 @@ Struggled trying to get java working
 
 September 7:
 Finished setting up java
-Borrowed the code from the article listed on September 5 -->
+Borrowed the code from the article listed on September 5 
+Talked to Seward and decided to work on the Unity game before continuing research on genetic algorithms
+
+-->
