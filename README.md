@@ -39,4 +39,7 @@ Finished setting up java
 Borrowed the code from the article listed on September 5 
 Talked to Seward and decided to work on the Unity game before continuing research on genetic algorithms
 
+September 11:
+Started work focused on creating the Unity game
+
 -->
