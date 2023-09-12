@@ -44,4 +44,7 @@ Started work focused on creating the Unity game
 Added the Unity folder to github
 Finished the world for the game and looked into basic AI
 
+September 12:
+Watched a bunch of tutorials about basic AI in Unity
+
 -->
