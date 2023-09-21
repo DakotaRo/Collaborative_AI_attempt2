@@ -66,4 +66,9 @@ Borrowed the code and simplified it to get rid of the
 Used this tutorial to fix my NavMesh issues: 
     (https://www.youtube.com/watch?v=mJu-zdZ9dyE)
 
+September 21:
+Worked on editing the code I used yesterday to make it as
+    simple as possible while still functioning
+Almost successfully simplified the code, but the agent is
+    not moving, so I have to figure that out
 -->
