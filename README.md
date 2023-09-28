@@ -8,6 +8,8 @@ The goal of this project is to create AI that will work with other agents to com
 
 [Unity Project](#unity-project)
 
+[LOG](https://github.com/DakotaRo/Collaborative_AI_attempt2/blob/main/LOG.md)
+
 ## Current State
 *updated weekly*
 
