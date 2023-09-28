@@ -73,5 +73,5 @@ Almost successfully simplified the code, but the agent is
     not moving, so I have to figure that out
 
 September 25:
-Fixed my README
+Worked on fixing my README
 -->
