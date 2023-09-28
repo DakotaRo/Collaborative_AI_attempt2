@@ -4,8 +4,9 @@
 The goal of this project is to create AI that will work with other agents to complete a task. Generative algorithms will be used to create agents that will work together to block multiple doors and keep a player agent from passing through. 
 
 ## Contents
-[Link Text](#current-state)
-[Link Text](#unity-project)
+[Current State](#current-state)
+
+[Unity Project](#unity-project)
 
 ## Current State
 *updated weekly*
