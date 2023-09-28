@@ -54,7 +54,7 @@ Started work focused on creating the Unity game
 Added the Unity folder to github
 
 Finished the world for the game and looked into basic AI
-[Image of the Unity World](https://github.com/DakotaRo/Collaborative_AI_attempt2/blob/main/images/Unity%20World%20Overview.png)
+![Image of the Unity World](https://github.com/DakotaRo/Collaborative_AI_attempt2/blob/main/images/Unity%20World%20Overview.png)
 
 ## September 12:
 Watched a bunch of tutorials about basic AI in Unity
