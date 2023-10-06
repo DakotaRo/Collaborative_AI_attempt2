@@ -78,3 +78,10 @@ Worked on fixing my README
 
 ## September 28:
 Fixed the README and formatted the LOG
+
+## October 3:
+Watched various tutorials on how to fix the AI, none of them worked
+
+## October 5:
+Watched a few tutorials on NavMesh to see if that's the issue, but everything looked good
+AI still isn't moving
