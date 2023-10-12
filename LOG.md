@@ -85,3 +85,10 @@ Watched various tutorials on how to fix the AI, none of them worked
 ## October 5:
 Watched a few tutorials on NavMesh to see if that's the issue, but everything looked good
 AI still isn't moving
+
+## October 12:
+Finally got the AI to move using different code
+Updated README
+Added multiple AI (4 per team)
+Colored the AI to differentiate the teams
+![Colored AI Image](https://github.com/DakotaRo/Collaborative_AI_attempt2/blob/main/images/Colored%20AI%20Image.png)
