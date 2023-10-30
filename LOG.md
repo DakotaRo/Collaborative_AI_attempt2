@@ -96,3 +96,6 @@ Added multiple AI (4 per team)
 
 Colored the AI to differentiate the teams
 ![Colored AI Image](https://github.com/DakotaRo/Collaborative_AI_attempt2/blob/main/images/Colored%20AI%20Image.png)
+
+## October 20-30
+Watching tutorials over genetic algorithm implementation in Unity 3D
