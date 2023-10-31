@@ -99,3 +99,6 @@ Colored the AI to differentiate the teams
 
 ## October 20-30
 Watching tutorials over genetic algorithm implementation in Unity 3D
+
+## October 31
+Wrote DNA script
