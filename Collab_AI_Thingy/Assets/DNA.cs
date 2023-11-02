@@ -28,11 +28,11 @@ public class DNA
         {
             if(i < dnaLength/2)
             {
-                newGenes.Add(g.Key, d1.genes(g.Key));
+                newGenes.Add(g.Key, d1.genes[g.Key]);
             }
             else
             {
-                newGenes.Add(g.Key, d2.genes(g.Key));
+                newGenes.Add(g.Key, d2.genes[g.Key]);
             }
             i++;
         }
@@ -41,6 +41,6 @@ public class DNA
     
     public float getGene(bool front)
     {
-        return genes(front);
+        return genes[front];
     }
 }
