@@ -101,7 +101,10 @@ Colored the AI to differentiate the teams
 Watching tutorials over genetic algorithm implementation in Unity 3D
 
 ## October 31
-Began work on DNA script
+Began work on DNA script with help from [this](https://www.youtube.com/watch?v=ph2cA_JSLt8) tutorial
 
 ## November 2
 Debugged DNA script
+
+## November 7
+Began work on Brain script with [this](https://www.youtube.com/watch?v=OC0bbQ8Z7Rw) tutorial
