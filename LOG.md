@@ -107,4 +107,7 @@ Began work on DNA script with help from [this](https://www.youtube.com/watch?v=p
 Debugged DNA script
 
 ## November 7
-Began work on Brain script with [this](https://www.youtube.com/watch?v=OC0bbQ8Z7Rw) tutorial
+Began work on Brain script with help from [this](https://www.youtube.com/watch?v=OC0bbQ8Z7Rw) tutorial
+
+## November 14
+Began work on PopulationManger script with help from [this](https://www.youtube.com/watch?v=74lO_EsYO24&t=9s) tutorial
